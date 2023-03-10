@@ -1,0 +1,428 @@
+body{
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+#wrap{
+	min-height:auto;
+	background-color:white;
+}
+#nav{
+	min-height:4vh;
+	background:#e5b113;
+	position: fixed;
+	z-index: 999;
+}
+
+#logo{
+	min-height: 5vh;
+	background:#e5b113;
+
+}
+#links{
+	min-height:5vh;
+	background:#e5b113;
+}
+
+#links ul{
+	
+	list-style: none;
+	float: right;
+	
+}
+#links ul li{
+	float: left;
+	margin-left: 10px;
+	margin-top: 3vh;
+	
+}
+#links ul li a{font-size: 17px;
+	color: black;
+	text-decoration: none;
+}
+#mwiki{
+	min-height:5vh;
+	margin-top: 3vh;
+
+}
+
+#jam1{
+	margin-top: 3vh;
+}
+
+
+
+#tenje{
+	min-height: 10vh;
+	
+}
+#tenje p{
+	text-align: center;
+	color: #e5b113;
+    font-size: 16px;}
+ 
+#baba{
+    		min-height: 20vh;
+    		background-color: green;
+    	}
+    	#papa{
+    		min-height: 20vh;
+    		
+    	}
+    	#sasa{
+    		min-height: 4vh;
+    		background-color: black;
+    	}
+    	button{
+    		border: solid;width: 2px;color: white;
+    	}
+#ban{margin-top: 4vh;}
+
+    #poa{
+    	min-height: 5vh;
+    	background-color:#56bb67;
+    	margin-top: 2vh;
+    	box-shadow: 2px 10px 10px grey;
+    }
+    #poa1{
+    	min-height: 5vh;
+    	background-color: 
+    	margin-top: 2vh;
+    }
+
+    #poa1 h2{
+    	color: black;
+    }
+
+    #poa2{
+    	min-height: 5vh;
+    	
+    	margin-top: 2vh;
+    }
+       #water{min-height: 100vh;
+       	margin-top: 4vh;
+          }
+
+ #home{
+ 	min-height: 100vh;
+ 	
+ }        
+
+#ken5{
+	min-height: 20vh;
+	
+}
+
+#ken15{
+	min-height: 20vh;
+	text-align: center;
+}
+
+#ken25{
+	min-height: 20vh;
+	
+}
+#ken15 h2{
+	margin-top: 6%;
+}
+
+
+button{
+	margin-top: 0px;
+}
+
+
+
+#noah{
+	margin-top: 12vh;
+	min-height: 50vh;
+	background-color: white;
+	text-align: center;
+	
+}
+
+#noah1{
+	
+	min-height: 50vh;
+	margin-left: 10%;
+	box-shadow: 2px 10px 10px grey;
+}
+
+#noah1 img{margin-left: 22%;
+margin-top: 2vh;}
+
+
+#noah1 h4{margin-top: -2vh;}
+
+#noah2{
+	
+	min-height: 50vh;
+	margin-left: 2%;
+	box-shadow: 2px 10px 10px grey;
+}
+
+
+#noah2 img{
+margin-left: 30%;
+margin-top: -1vh;
+}
+
+#noah3{
+	
+	min-height: 50vh;
+	margin-left: 2%;
+	box-shadow: 2px 10px 10px grey;
+}
+#noah3 img{
+margin-left: 30%;
+margin-top: 8vh;
+}
+
+
+
+#comp{
+	min-height: 35vh;
+	text-align: center;
+	font-size: 30px;
+	box-shadow: 0 4px 4px black;
+	background-color: transparent;
+}
+#comp p{
+	margin-top: 50px;
+	font-size: 20px;
+}
+
+#living{
+	min-height: 90vh;
+	background-color: silver;
+   margin-top: 4vh;
+
+}
+
+#living img{
+	width: 98%;
+	
+	position: absolute;
+	height: 90vh;
+}
+
+#weee{
+	min-height: 40vh;
+	position: absolute;
+	margin-top: 20vh;
+	margin-left: 25%;
+	opacity: .7;
+	text-align: center;
+	border-radius: 20px;
+	background-color: white;
+
+
+}
+
+
+#weee p{
+	font-size: 18px;
+	margin-top: 20px;
+
+}
+#doo{
+	min-height: 80vh;
+   margin-top: 4vh;
+
+	
+}
+
+#doo1{
+	min-height: 80vh;
+	
+	
+}
+
+#doo2{
+	min-height: 80vh;
+
+	
+}
+
+#doo3{
+	min-height: 80vh;
+
+	
+}
+
+
+#doo1q{
+	min-height: 40vh;
+
+	
+}
+
+#doo1w{
+	min-height: 40vh;
+
+	
+}
+
+#doo1e{
+	min-height: 40vh;
+
+	
+}
+
+#doo1r{
+	min-height: 40vh;
+
+	
+}
+
+#doo1t{
+	min-height: 40vh;
+
+	
+}
+
+#doo1y{
+	min-height: 40vh;
+
+	
+}
+
+
+#titl{
+	margin-top: 8vh;
+	min-height: 5vh;
+	text-align: center;
+
+	
+}
+
+
+
+#doo img{
+	border-radius: 10px;
+	width: 100%;
+	height: 40vh;
+}
+
+
+#footer{
+	min-height: 35vh;
+	
+}
+
+#footer img{
+	width: 100%;
+	float: right;
+	height: 40vh;
+	position: absolute;
+}
+
+.imge{
+	width: 50%;
+	height: 20vh;
+	float: right;
+	position: relative;
+
+	
+}
+
+.imge img{
+	width: 30%;
+	height: 20px;
+}
+
+
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  padding-top: 60px;
+}
+.modal input{
+	width: 100%;
+	height: 50px;
+	margin-top: 20px;
+}
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 5px auto; /* 15% from the top and centered */
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.close {
+  /* Position it in the top right corner outside of the modal */
+  position: absolute;
+  right: 25px;
+  top: 0; 
+  color: #000;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+/* Close button on hover */
+.close:hover,
+.close:focus {
+  color: red;
+  cursor: pointer;
+}
+
+/* Add Zoom Animation */
+.animate {
+  -webkit-animation: animatezoom 0.6s;
+  animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+  from {-webkit-transform: scale(0)} 
+  to {-webkit-transform: scale(1)}
+}
+
+@keyframes animatezoom {
+  from {transform: scale(0)} 
+  to {transform: scale(1)}
+}
+
+button{
+	width: 70px;
+	height: 40px;
+	border-radius: 20px;
+	background-color: lightblue;
+	margin-top: 5px;
+}
+
+
+
+#reny{min-height: 35vh;
+
+	margin-top: 10vh;
+}
+
+
+
+
+#jame{min-height: 8vh;}
+
+
+#jame img{min-height: 9vh;}
+
+#jam{
+	min-height: 1vh;
+	
+}
+
+#jam1{
+	min-height: 2vh;
+	
+}
+
+#about{margin-top: 4vh;}
